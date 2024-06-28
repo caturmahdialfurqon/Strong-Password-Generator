@@ -9,7 +9,7 @@ This Tool is Written in Go to Generate Strong Passwords
 ```
 Or You can Download the Release Build.
 
-![How To use](src/2024-06-28.gif.gif)
+![How To use](src/2024-06-28.gif)
 
 Keep Your Passwords Safe and Secure!
 ------------------------------------
