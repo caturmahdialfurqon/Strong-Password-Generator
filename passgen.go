@@ -18,8 +18,8 @@ const (
 	similarChars    = "il1Lo0O"
 	sequentialChars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 	// just for color
-	Cyan    		= "\033[36m"
-	Blue    		= "\033[34m" 
+	Cyan    	= "\033[36m"
+	Blue    	= "\033[34m" 
 	Reset           = "\033[0m" 
 )
 
